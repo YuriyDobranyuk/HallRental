@@ -1,0 +1,6 @@
+@HallRentalApi_HostAddress = http://localhost:5039
+
+GET {{HallRentalApi_HostAddress}}/
+Accept: application/json
+
+###
